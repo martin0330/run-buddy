@@ -268,10 +268,18 @@ section {
 
 .trainer-bio p {
     font-size: 17px;
+ feature/contact-form
     
 }
 
 .contact {
+
+    line-height: 1.3;
+}
+
+.contact {
+    text-align: center;
+
     background: #024e76
 }
 
