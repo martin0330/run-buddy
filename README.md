@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://martin0330.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [Martin Cruz]
+Made by Martin Cruz
 
 ### ©️2019 Run Buddy, Inc 
